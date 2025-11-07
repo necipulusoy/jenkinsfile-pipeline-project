@@ -9,7 +9,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        echo "Reinvent Yourself"
+        echo "Reinvent Yourself-deneme"
         sh 'echo second step'
         sh 'echo another step'
         sh '''
